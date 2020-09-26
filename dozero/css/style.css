@@ -32,7 +32,7 @@ ul {
 }
 
 .hero-wrapper {
-  background: url("/dozero/img/hero-2.jpg");
+  background: url("img/hero-2.jpg");
   background-size: cover;
 }
 
